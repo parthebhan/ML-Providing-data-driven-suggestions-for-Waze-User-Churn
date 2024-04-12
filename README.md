@@ -12,7 +12,7 @@ As we continue our journey of empowering drivers worldwide, we encounter the cha
 
 **Problem Statement: 1. Develop a machine learning model that predicts user churn**
 
-[![hugging face](https://img.shields.io/badge/huggingface-App-ff69b4.svg?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Parthebhan/Waze_User_Churn)
+[![hugging face](https://img.shields.io/badge/huggingface-User_Retention_App-ff69b4.svg?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Parthebhan/Waze_User_Churn)
 
 
 Waze is ready to create a machine learning model.The following tasks are needed to complete the project:
